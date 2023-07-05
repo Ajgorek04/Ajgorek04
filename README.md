@@ -1,5 +1,5 @@
 # 🔥 About Me:
-🔨 I’m currently working on ***Improving your skills as a Front-End Developer***
+🔨 I’m currently working on ***Improving my own skills as a Front-End Developer***
 <br>👯 I am looking for cooperation on ***Some Front-End projects***
 <br>🤝 I'm looking for help with ***ReactJS***
 <br>📖 I’m currently learning ***JavaScript***
