@@ -1,2 +1,2 @@
-<h1 style="text-align: center;"> Ajgorek </h1>
+<div style="text-align: center;"> <h1> Ajgorek </h1> </div>
 <p>  </p>
