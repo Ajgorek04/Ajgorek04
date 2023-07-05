@@ -15,16 +15,16 @@
 <div id="socials" align="center">
   
   <a href="https://instagram.com/a_jgorek">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="10%">
-    &nbsp;    &nbsp;
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="20%">
+    &nbsp;
   </a>
   
   <a href="https://linkedin.com/in/Ajgorek">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="10%">
-    &nbsp;    &nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="20%">
+    &nbsp;
   </a>
     <a href="https://discord.com/.nowiem">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="LinkedIn" width="10%">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="LinkedIn" width="20%">
   </a> 
   
 </div>
