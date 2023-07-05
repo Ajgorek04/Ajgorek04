@@ -7,8 +7,8 @@
 <br>⚡ Fun fact ***I love coding but I'm little lazy***
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif" width="500" height="250"/>
-  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="500" height="250"/>
+  <img src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="400" height="200"/>
 </div>
 
 ## 🌐 Socials:
