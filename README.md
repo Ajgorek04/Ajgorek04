@@ -1,10 +1,10 @@
 # 🔥 About Me:
-🔭 I’m currently working on ***Improving your skills as a Front-End Developer***
+🔨 I’m currently working on ***Improving your skills as a Front-End Developer***
 <br>👯 I am looking for cooperation on ***Some Front-End projects***
 <br>🤝 I'm looking for help with ***ReactJS***
-<br>🌱 I’m currently learning ***JavaScript***
-<br>💬 Ask me about ***My projects***
-<br>⚡ Fun fact ***I love coding but I'm little lazy***
+<br>📖 I’m currently learning ***JavaScript***
+<br>💬 Ask me about ***My projects and ideas***
+<br>⚡ Fun fact ***Coding === Relax***
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif" width="400" height="200"/>
