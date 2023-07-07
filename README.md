@@ -13,6 +13,8 @@
 
 ## 🌐 Socials:
 <div id="socials" align="center">
+
+  ![LOGO!](ajgorekDev.png)
   
   <a href="https://instagram.com/a_jgorek">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="15%">
@@ -57,5 +59,3 @@
 
 #
 [![](https://visitcount.itsvg.in/api?id=Ajgorek04&icon=5&color=8)](https://visitcount.itsvg.in)
-
-a
