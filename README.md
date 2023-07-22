@@ -1,6 +1,10 @@
 # 🔥 About Me:
-*** 19 yo webdev***
-
+<div id="header" align="center">
+<h4> Hi, I'm Igor, currently I'm 18 and I want to become a Full Stack Developer. Currently, I have the last class of IT technical school and the last exam to pass. He then targets Front End Developer work and further learning </h4>
+</div>
+<br>
+<br>
+<br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif" width="400" height="200"/>
   <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="400" height="200"/>
@@ -12,33 +16,21 @@
   ![LOGO!](ajgorekDev.png)
   
   <a href="https://instagram.com/a_jgorek">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="15%">
-    &nbsp;
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
   <a href="https://linkedin.com/in/Ajgorek">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="15%">
-    &nbsp;
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
     <a href="https://discord.com/.nowiem">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="LinkedIn" width="15%">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a> 
   
 </div>
 
 # 💻 Tech Stack:
 <div id="techStack" align="center">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    &nbsp;
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    &nbsp;
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-    &nbsp;
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    &nbsp;
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    &nbsp;
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,wordpress,github,git,mysql,linux,vscode," />
 </div>
 
 # 📊 GitHub Stats:
