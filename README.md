@@ -15,14 +15,14 @@
 
   ![LOGO!](ajgorekDev.png)
   
-  <a href="https://instagram.com/a_jgorek">
+  <a href="https://instagram.com/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
-  <a href="https://linkedin.com/in/Ajgorek">
+  <a href="https://linkedin.com/in/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-    <a href="https://discord.com/.nowiem">
+    <a href="https://discord.com/">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a> 
   
