@@ -1,6 +1,6 @@
 # 🔥 About Me:
 <div id="header" align="center">
-<h4> Hi, I'm Igor, currently I'm 18 and I want to become a Full Stack Developer. Currently, I have the last class of IT technical school and the last exam to pass. He then targets Front End Developer work and further learning </h4>
+<h4> Hi, I'm Igor, future FullStack </h4>
 </div>
 <br>
 <br>
