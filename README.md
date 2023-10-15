@@ -30,7 +30,7 @@
 
 # 💻 Tech Stack:
 <div id="techStack" align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,vite,wordpress,github,git,mysql,linux,vscode," />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,vite,github,git,mysql,linux,vscode," />
 </div>
 
 # 📊 GitHub Stats:
