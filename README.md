@@ -1,6 +1,6 @@
 # 🔥 About Me:
 <div id="header" align="center">
-<h4> Hi, I'm Igor, future FullStack </h4>
+<h4> Hi, I'm Igor, future FullStack Developer </h4>
 </div>
 <br>
 <br>
