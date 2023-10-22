@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f7e21453-69e1-4b1c-b73a-f96c28da4859/deploy-status)](https://app.netlify.com/sites/randomuserdataapi/deploys)
+
 # 🔥 About Me:
 <div id="header" align="center">
 <h4> Hi, I'm Igor, future FullStack Developer </h4>
