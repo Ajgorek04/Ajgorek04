@@ -23,7 +23,7 @@
 
 # 💻 Tech Stack:
 <div id="techStack" align="center">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,vite,github,git,netlify,wordpress,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,vite,github,git,netlify,linux,vscode, mysql" />
 </div>
 
 # 📊 GitHub Stats:
