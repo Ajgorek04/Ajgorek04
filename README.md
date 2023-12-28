@@ -15,8 +15,11 @@
 
   ![LOGO!](ajgorekDev.png)
   
-  <a href="https://linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/ajgorek/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/Ajgorek04">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
 </div>
