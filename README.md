@@ -1,7 +1,15 @@
 # 🔥 About Me:
 <div id="header" align="center">
-<h4> Hi, I'm Igor, future FullStack Developer </h4>
+<h4> Hi 👋 I'm Igor, future FullStack Developer </h4>
 </div>
+
+* 🌍  I'm based in Kielce
+* ✉️  You can contact me at [igorblendzinski12@gmail.com](mailto:igorblendzinski12@gmail.com)
+* 🚀  I'm currently working on [TOPSKLEP\_project-react.js](http://github.com/Ajgorek04/TOPSKLEP_project-react.js)
+* 🧠  I'm learning React.JS
+* 🤝  I'm open to collaborating on interesting programming projects
+
+
 <br>
 <br>
 <br>
