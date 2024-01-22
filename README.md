@@ -5,7 +5,7 @@
 
 * 🌍  I'm based in Kielce
 * ✉️  You can contact me at [igorblendzinski12@gmail.com](mailto:igorblendzinski12@gmail.com)
-* 🚀  I'm currently working on [TOPSKLEP\_project-react.js](http://github.com/Ajgorek04/TOPSKLEP_project-react.js)
+* 🚀  I'm currently working on [Financial-Dashboard](https://github.com/Ajgorek04/Financial-Dashboard)
 * 🧠  I'm learning React.js ; Next.js
 * 🤝  I'm open to collaborating on interesting programming projects
 
