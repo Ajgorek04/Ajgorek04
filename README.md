@@ -5,7 +5,7 @@
 
 * 🌍  I'm based in Kielce
 * ✉️  You can contact me at [igorblendzinski12@gmail.com](mailto:igorblendzinski12@gmail.com)
-* 🚀  I'm currently working on (...)
+* 🚀  I'm currently working on [Financial Dashboard NEXTJS](https://github.com/Ajgorek04/Financial-Dashboard_NEXTJS)
 * 🧠  I'm learning React.js ; Next.js
 * 🤝  I'm open to collaborating on interesting programming projects
 
