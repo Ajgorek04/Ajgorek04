@@ -3,13 +3,6 @@
 <h4> Hi 👋 I'm Igor, future FullStack Developer </h4>
 </div>
 
-* 🌍  I'm based in Kielce
-* ✉️  You can contact me at [igorblendzinski12@gmail.com](mailto:igorblendzinski12@gmail.com)
-* 🚀  I'm currently working on (BREAK)
-* 🧠  I'm learning React.js ; Next.js
-* 🤝  I'm open to collaborating on interesting programming projects
-
-
 <br>
 <br>
 <br>
